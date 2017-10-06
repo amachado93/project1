@@ -1,3 +1,7 @@
 h1 {
-color:inherit; red  
+  color: red;
+}
+
+span {
+  font-size: 50px;
 }
