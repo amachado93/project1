@@ -1,7 +1,26 @@
+/* pink box */
+* {
+  outline: solid 1px hotpink;
+}
+
+/* basic reset */
+body {
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
   color: red;
 }
 
+h2 {
+  text-decoration: blink;
+}
+
 span {
   font-size: 50px;
+}
+
+#happy-cake {
+  color: blue;
 }
